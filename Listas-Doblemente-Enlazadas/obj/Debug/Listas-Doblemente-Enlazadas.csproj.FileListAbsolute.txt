@@ -1,0 +1,6 @@
+D:\UTT\4 Cuatrimestre\Estructura de datos\Listas-Doblemente-Enlazadas\Listas-Doblemente-Enlazadas\bin\Debug\Listas-Doblemente-Enlazadas.exe.config
+D:\UTT\4 Cuatrimestre\Estructura de datos\Listas-Doblemente-Enlazadas\Listas-Doblemente-Enlazadas\bin\Debug\Listas-Doblemente-Enlazadas.exe
+D:\UTT\4 Cuatrimestre\Estructura de datos\Listas-Doblemente-Enlazadas\Listas-Doblemente-Enlazadas\bin\Debug\Listas-Doblemente-Enlazadas.pdb
+D:\UTT\4 Cuatrimestre\Estructura de datos\Listas-Doblemente-Enlazadas\Listas-Doblemente-Enlazadas\obj\Debug\Listas-Doblemente-Enlazadas.csprojResolveAssemblyReference.cache
+D:\UTT\4 Cuatrimestre\Estructura de datos\Listas-Doblemente-Enlazadas\Listas-Doblemente-Enlazadas\obj\Debug\Listas-Doblemente-Enlazadas.exe
+D:\UTT\4 Cuatrimestre\Estructura de datos\Listas-Doblemente-Enlazadas\Listas-Doblemente-Enlazadas\obj\Debug\Listas-Doblemente-Enlazadas.pdb
